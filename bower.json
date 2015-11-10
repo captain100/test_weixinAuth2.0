@@ -1,0 +1,19 @@
+{
+  "name": "test_weixinAuth2.0",
+  "version": "0.0.0",
+  "homepage": "https://github.com/captain100/weixin_demo",
+  "authors": [
+    "qiushi"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,38 @@
+*{
+	margin:0px;
+	padding: 0px;
+    border: 0;
+    font: 300 97% "Helvetica Neue",Helvetica,"Hiragino Sans GB",STHeitiSC-Light,"Microsoft YaHei","微软雅黑",Arial,sans-serif;
+    color: #444;
+    line-height: 1;
+    -webkit-tap-highlight-color: transparent;
+}
+input,button {
+	width: 100%;
+	height: 4em;
+	margin: 1em 0.1em;
+}
+input {
+	padding: 0px;
+	border: 1px solid #f00;
+	font-size: 1em;
+}
+button{
+	background-color: #393;
+}
+.login_page{
+	width: 640px;
+	height: 100%;
+    text-align: left;
+    margin: 0 auto;
+    padding: 18px 0;
+    border-bottom: 1px solid #eee;
+    background: #fff;
+    position: relative;
+
+}
+.content-only{
+	float: left;
+    width: 80%;
+    margin-left: 10%;
+}
